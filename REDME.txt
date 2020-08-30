@@ -1,0 +1,3 @@
+Esta práctica pertenece al capitulo 7 de Head_First_HTML_and_CSS_Elisabeth_Robson_Eric_Freeman.
+En esta practica se realiza una brebe introduccion a CSS, se implementa una hoja de stilo y se aplican los conceptos de 
+hoja de estilo interna y externa. Tambien se realizo la verificacion de la sintaxis del codigo css con la pagina de W3C.
